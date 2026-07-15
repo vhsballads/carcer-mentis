@@ -13,4 +13,8 @@ welcome to my personal blog
 
 enjoy your stay, or don't. this is in significant development right now, so check back week in order to see new changes.
 
+///
+
+[20260714 - the dichotomy of loyalty](/20260714/)
+
 [jekyll-organization]: https://github.com/jekyll
