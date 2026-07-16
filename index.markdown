@@ -15,6 +15,13 @@ enjoy your stay, or don't. this is in significant development right now, so chec
 
 ///
 
-[20260714 - the dichotomy of loyalty](/20260714/)
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+      <p>{{ post.excerpt }}</p>
+    </li>
+  {% endfor %}
+</ul>
 
 [jekyll-organization]: https://github.com/jekyll
