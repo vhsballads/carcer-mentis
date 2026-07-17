@@ -19,6 +19,8 @@ Throughout the 24 hours in which this book is set, the author paints an image of
 
 I realised more and more that the demonisation of the DPRK in favour of glorifying the ROK was not as fair as it seemed from the first glance. Kim Ki-yong’s infiltration of the south was analogous to a period of time in the real-life ROK where student unions were an important force in [South] Korean politics through the 70s & 80s, it was shortly before and around this period of time that the south was actually just as dictatorial as the North. Events such as the Gwangju Struggle show the extent of this ugly facet of the south at the time, many of these in student unions were Marxists so they were targeted by the government for political dissidence. We see one of the main characters in the story - Ma-ri - who grew up in Gwangju look back on this event.
 
+[![image.png](https://i.postimg.cc/28hcLXBG/image.png)](https://postimg.cc/Ln4BrDDg)
+<sup>a</sup>
 
 Both countries come from similar roots, the DPRK started out as a Soviet-aligned satellite state and the ROK started out the same way as an American-aligned satellite state. Both were influenced by foreign ideologies that turned out to be divisive and the beginning of a lifeless peninsula’s decay. The North, in it’s attempt to create a classless society — has become what it swore to destroy, essentially a tyrannical fascist quasi-republic with a rigid class system and an economy that’s been struggling since 1991. So the South was historically better, right? I’d reconsider - the ROK was built by multinational family-owned monopolies into a meretricious dystopia where the intellectual class have their minds numbed by the draconian school-system and corporate competition. It may not be as horrible today, but throughout most of it’s history - it was a tyrannical dictatorship on top of all this, so what was the difference really?
 
@@ -30,6 +32,8 @@ While this strays from the topic of the book, my iteration of things ties in to 
 
 Aside from Ki-yong’s reality in the South, later on throughout the middle of the book we get more revelations from his childhood years. The author uses everyday items such as Harmonicas to describe the type of architecture in the Pyonyang’s apartment complexes Ki-yong grew up in during the 80s, which I found very intriguing.
 
+[![image.png](https://i.postimg.cc/ydDn1fKs/image.png)](https://postimg.cc/MM81tmXF)
+<sup>b</sup>
 
 Ki-yong’s experience at Lotte World (p. 80) was one of several turning points in the novel where we see him enter an ideological confusion, he describes his fascination with the place. In the North, people often fought in long lines for events and privileged party members cut the line, so it wasn’t even the rides that fascinated him - but the behaviour of the people around him. Although it was a relatively common activity, the author made the most out of it by comparing it to something unexpected.
 
@@ -45,3 +49,8 @@ As the narrative unfolds, Ki-yong's internal conflict intensifies, embodying the
 Kim Young-ha’s critiques both North and South Korean systems for their historic hypocrisy and faults, showing how thousands of families in history shared Ki-yong’s fractured reality between these extremes. His wife, Ma-ri, and daughter, Hyon-mi, are no longer anchors, representing the precariousness of his situation instead. In the dawn of his frustration, Ki-yong, a man divided by two worlds, cannot wholly embrace either side - he turns out to be nothing but an outcast, ultimately belonging nowhere.
 
 In the end, the novel paints an image of a peninsula that has never been more divided, where unification under two opposing ideologies seems not only undesirable, but unrealistic, too unrealistic to hold hope for in some. Ki-yong’s defeatist lifelessness encapsulates a broader, existential crisis—one that neither North nor South has resolved. Kim Young-ha’s novel is a mirror through which the reader reflects not only on the division of Korea but on the divided nature of humanity itself in a fallen world. Ki-yong is both the victim and perpetrator of this reality, a man whose journey home is nothing more than a journey into exile.
+
+## Citations
+A. ROK DMZ Fence & Guard Towers constructed by the 2nd Engineer Battalion — Credit; U.S. Army Corps of Engineers USACE, Aug 1968.
+B. Farmer in tears after being trampled on and having his shirt torn by the police during the South Korean American beef import protests in 1988. His tears were scattered in the rain and protest.
+
